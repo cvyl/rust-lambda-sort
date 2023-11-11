@@ -1,3 +1,4 @@
+[![Rust](https://github.com/ly-nld/rust-lambda-sort/actions/workflows/rust.yml/badge.svg)](https://github.com/ly-nld/rust-lambda-sort/actions/workflows/rust.yml)
 # Lambda Sort in Rust
 ## SETUP
 ```
