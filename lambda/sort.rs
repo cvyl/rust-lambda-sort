@@ -1,5 +1,4 @@
 use std::io::{self, Write};
-use serde_json::{Value, json};
 
 fn main() {
     let mut input = String::new();
