@@ -1,8 +1,8 @@
-[![Rust](https://github.com/ly-nld/rust-lambda-sort/actions/workflows/rust.yml/badge.svg)](https://github.com/ly-nld/rust-lambda-sort/actions/workflows/rust.yml)
+[![Rust](https://github.com/cvyl/rust-lambda-sort/actions/workflows/rust.yml/badge.svg)](https://github.com/ly-nld/rust-lambda-sort/actions/workflows/rust.yml)
 # Lambda Sort in Rust
 ## SETUP
 ```
-git clone https://github.com/ly-nld/rust-lambda-sort
+git clone https://github.com/cvyl/rust-lambda-sort
 cd rust-lambda-sort
 cargo run
 ```
